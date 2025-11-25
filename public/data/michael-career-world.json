@@ -1,0 +1,410 @@
+{
+  "attractions": [
+    {
+      "id": "prgx-director",
+      "name": "Director of Digital Marketing & ABM",
+      "company": "PRGX Global",
+      "location": "Atlanta, GA (Remote)",
+      "category": "Executive Kingdom",
+      "startDate": "2024-07",
+      "endDate": "2025-09",
+      "duration": "1y 3m",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400",
+      "description": "Architected unified revenue operating model integrating Demandbase, CRM, and analytics systems",
+      "achievements": [
+        "87% YoY marketing-sourced pipeline growth",
+        "$1.5M annual budget across 11 vendors",
+        "500% team expansion",
+        "30% improvement in database health",
+        "$1.2M qualified pipeline in 90 days",
+        "45% YoY marketing attributed pipeline"
+      ],
+      "skills": ["ABM", "Demand Generation", "Revenue Operations", "Marketing Automation", "Analytics", "Team Leadership"],
+      "technologies": ["DemandBase", "Salesforce", "Marketo", "Qualified.com", "ZoomInfo"],
+      "coordinates": {
+        "lat": -8.35,
+        "lng": 160.25
+      }
+    },
+    {
+      "id": "amcs-director",
+      "name": "Director of Account-Based Marketing",
+      "company": "AMCS Group",
+      "location": "Boston, MA / Miami, FL",
+      "category": "Executive Kingdom",
+      "startDate": "2023-07",
+      "endDate": "2024-01",
+      "duration": "7m",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400",
+      "description": "Built end-to-end ABM framework generating $1.2M pipeline in 90 days",
+      "achievements": [
+        "$1.2M pipeline generated in 90 days",
+        "35% MQL increase within 60 days",
+        "50% improvement in campaign ROI",
+        "35% partner activation increase",
+        "80% data quality improvement"
+      ],
+      "skills": ["ABM Strategy", "Campaign Management", "Data Quality", "GTM Strategy", "Partner Marketing"],
+      "technologies": ["Salesforce", "Marketing Automation", "SharePoint"],
+      "coordinates": {
+        "lat": -8.38,
+        "lng": 160.22
+      }
+    },
+    {
+      "id": "redhat-senior-principal",
+      "name": "Senior Principal Program Manager, ABM",
+      "company": "Red Hat",
+      "location": "Raleigh, NC (Remote)",
+      "category": "Enterprise Launch Pad",
+      "startDate": "2021-08",
+      "endDate": "2023-05",
+      "duration": "1y 10m",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400",
+      "description": "Led ABM programs for 200+ Enterprise accounts contributing to 33% of global pipeline",
+      "achievements": [
+        "30% new enterprise account introductions",
+        "25% increase in MQLs",
+        "30% decrease in cost per lead",
+        "40% increase in upsell opportunities",
+        "30% boost in customer advocacy",
+        "20% reduction in project turnaround"
+      ],
+      "skills": ["Enterprise ABM", "Customer Marketing", "Sales Enablement", "Change Management", "Lifecycle Marketing"],
+      "technologies": ["Salesforce", "6Sense", "Marketing Automation"],
+      "coordinates": {
+        "lat": -8.42,
+        "lng": 160.28
+      }
+    },
+    {
+      "id": "salesforce-global-ops",
+      "name": "Global Marketing Operations Leader",
+      "company": "Salesforce",
+      "location": "San Francisco, CA (Remote)",
+      "category": "Enterprise Launch Pad",
+      "startDate": "2014-03",
+      "endDate": "2021-09",
+      "duration": "7y 7m",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400",
+      "description": "Led marketing operations supporting 95 team members across global markets",
+      "achievements": [
+        "65% increase in sales-qualified leads",
+        "76% YoY pipeline growth",
+        "63% YoY ACV growth",
+        "190% reporting efficiency improvement (4 days to 2 hours)",
+        "150% increase in lead generation",
+        "40% improvement in partner revenue"
+      ],
+      "skills": ["Marketing Operations", "Campaign Management", "Analytics", "Sales Enablement", "Data Visualization", "Team Leadership"],
+      "technologies": ["Salesforce", "Eloqua", "Tableau", "Einstein Analytics", "6Sense"],
+      "coordinates": {
+        "lat": -8.45,
+        "lng": 160.35
+      }
+    },
+    {
+      "id": "salesforce-campaigns",
+      "name": "Senior Manager of Enterprise Campaigns",
+      "company": "Salesforce",
+      "location": "San Francisco, CA",
+      "category": "Enterprise Launch Pad",
+      "startDate": "2014-03",
+      "endDate": "2017-11",
+      "duration": "3y 9m",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400",
+      "description": "Led integrated marketing campaigns for Fortune 50 enterprise accounts",
+      "achievements": [
+        "30% YoY pipeline increase",
+        "Established ABM Center of Excellence",
+        "Led NRF and HIMSS industry events",
+        "Enterprise Service Cloud demand generation"
+      ],
+      "skills": ["Enterprise Campaigns", "ABM", "Event Marketing", "BDR Coaching", "Sales Enablement"],
+      "technologies": ["Salesforce", "Marketo", "Marketing Cloud"],
+      "coordinates": {
+        "lat": -8.48,
+        "lng": 160.38
+      }
+    },
+    {
+      "id": "getsatisfaction-director",
+      "name": "Director of Demand Generation",
+      "company": "Get Satisfaction",
+      "location": "San Francisco, CA",
+      "category": "Innovation Alley",
+      "startDate": "2012-05",
+      "endDate": "2014-02",
+      "duration": "1y 10m",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=400",
+      "description": "Led all demand generation activities including marketing automation and lead management",
+      "achievements": [
+        "End-to-end demand generation program execution",
+        "ROI analysis and campaign optimization",
+        "Marketo system ownership",
+        "Full-funnel campaign measurement"
+      ],
+      "skills": ["Demand Generation", "Marketing Automation", "Lead Management", "SEM/SEO", "ROI Analysis"],
+      "technologies": ["Marketo", "Salesforce", "Google Analytics"],
+      "coordinates": {
+        "lat": -8.52,
+        "lng": 160.42
+      }
+    },
+    {
+      "id": "crowdfactory-senior-manager",
+      "name": "Senior Manager of Marketing & Communications",
+      "company": "Crowd Factory",
+      "location": "San Francisco, CA",
+      "category": "Innovation Alley",
+      "startDate": "2011-03",
+      "endDate": "2012-05",
+      "duration": "1y 3m",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400",
+      "description": "Content and SEO manager for corporate website and lead generation",
+      "achievements": [
+        "164% YoY increase in unique visitors",
+        "43% QoQ increase in net new leads",
+        "Delivered lead nurturing program",
+        "Worked with American Red Cross, HBO, Sony Music"
+      ],
+      "skills": ["SEO", "Content Marketing", "Marketing Automation", "Lead Nurturing", "Customer Success"],
+      "technologies": ["Marketo", "Salesforce", "SEO Tools"],
+      "coordinates": {
+        "lat": -8.55,
+        "lng": 160.45
+      }
+    },
+    {
+      "id": "embarcadero-manager",
+      "name": "Global Online Marketing Manager",
+      "company": "Embarcadero Technologies",
+      "location": "San Francisco Bay Area",
+      "category": "Innovation Alley",
+      "startDate": "2008-10",
+      "endDate": "2011-03",
+      "duration": "2y 6m",
+      "image": "https://images.unsplash.com/photo-1432888622747-4eb9a8f2c293?w=400",
+      "description": "Managed SEO, SEM, and social media marketing operations",
+      "achievements": [
+        "SEO and paid advertising management",
+        "Social media and content syndication",
+        "Multi-platform reporting (Salesforce, Eloqua, Responsys)",
+        "Best practices in social media and blogging"
+      ],
+      "skills": ["SEO/SEM", "Social Media", "Marketing Operations", "Content Strategy", "Analytics"],
+      "technologies": ["Salesforce", "Eloqua", "Responsys", "Google Ads"],
+      "coordinates": {
+        "lat": -8.58,
+        "lng": 160.48
+      }
+    },
+    {
+      "id": "salemglobal-senior-manager",
+      "name": "Senior Manager of Online Marketing",
+      "company": "SalemGlobal Internet",
+      "location": "New York, NY",
+      "category": "Innovation Alley",
+      "startDate": "2006-06",
+      "endDate": "2008-09",
+      "duration": "2y 4m",
+      "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=400",
+      "description": "Managed business development, prospecting, and client onboarding",
+      "achievements": [
+        "500% growth in new clients YoY",
+        "85% client retention rate",
+        "Client onboarding and support"
+      ],
+      "skills": ["Business Development", "Client Management", "Account Management", "Sales"],
+      "technologies": ["CRM Systems", "Marketing Tools"],
+      "coordinates": {
+        "lat": -8.62,
+        "lng": 160.52
+      }
+    },
+    {
+      "id": "botm-analyst",
+      "name": "Business Analyst",
+      "company": "Bank of Tokyo-Mitsubishi",
+      "location": "New York, NY",
+      "category": "Foundation Plaza",
+      "startDate": "2005-03",
+      "endDate": "2006-04",
+      "duration": "1y 2m",
+      "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=400",
+      "description": "Designed and implemented Credit Portfolio Management System",
+      "achievements": [
+        "Internal CPMS system implementation",
+        "Team training and enablement",
+        "Test and validation plans",
+        "Technical documentation"
+      ],
+      "skills": ["Business Analysis", "System Implementation", "Project Management", "Technical Documentation"],
+      "technologies": ["CPMS", "Portfolio Management Systems"],
+      "coordinates": {
+        "lat": -8.65,
+        "lng": 160.55
+      }
+    },
+    {
+      "id": "sp-lms-strategist",
+      "name": "Learning Management Systems Strategist",
+      "company": "Standard & Poor's",
+      "location": "New York, NY",
+      "category": "Foundation Plaza",
+      "startDate": "2003-03",
+      "endDate": "2005-03",
+      "duration": "2y 1m",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400",
+      "description": "Led LMS implementation and training delivery",
+      "achievements": [
+        "LMS implementation for multiple business units",
+        "Complete reporting system development",
+        "Global KPI point of contact",
+        "CEO recognition for on-time, on-budget delivery"
+      ],
+      "skills": ["Learning Management", "Training Delivery", "Reporting Systems", "Project Management"],
+      "technologies": ["LMS", "Reporting Tools"],
+      "coordinates": {
+        "lat": -8.68,
+        "lng": 160.58
+      }
+    },
+    {
+      "id": "goldman-analyst",
+      "name": "Learning and Professional Development Analyst",
+      "company": "Goldman Sachs",
+      "location": "New York, NY",
+      "category": "Foundation Plaza",
+      "startDate": "2000-06",
+      "endDate": "2002-11",
+      "duration": "2y 6m",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400",
+      "description": "Directed Enterprise LMS implementation and eLearning projects",
+      "achievements": [
+        "Enterprise LMS implementation",
+        "eLearning project management",
+        "Reporting tools development"
+      ],
+      "skills": ["Learning Management", "Project Management", "eLearning", "System Implementation"],
+      "technologies": ["Enterprise LMS", "eLearning Platforms"],
+      "coordinates": {
+        "lat": -8.72,
+        "lng": 160.62
+      }
+    }
+  ],
+  "zones": [
+    {
+      "id": "executive-kingdom",
+      "name": "Executive Kingdom",
+      "color": "#7c3aed",
+      "description": "Director-level leadership roles (2023-Present)",
+      "period": "2023-Present",
+      "coordinates": [
+        [160.20, -8.32],
+        [160.30, -8.32],
+        [160.30, -8.42],
+        [160.20, -8.42],
+        [160.20, -8.32]
+      ]
+    },
+    {
+      "id": "enterprise-launchpad",
+      "name": "Enterprise Launch Pad",
+      "color": "#0ea5e9",
+      "description": "Scale and growth at enterprise companies (2014-2023)",
+      "period": "2014-2023",
+      "coordinates": [
+        [160.25, -8.40],
+        [160.42, -8.40],
+        [160.42, -8.52],
+        [160.25, -8.52],
+        [160.25, -8.40]
+      ]
+    },
+    {
+      "id": "innovation-alley",
+      "name": "Innovation Alley",
+      "color": "#0d9488",
+      "description": "Building foundations at growth companies (2006-2014)",
+      "period": "2006-2014",
+      "coordinates": [
+        [160.40, -8.50],
+        [160.55, -8.50],
+        [160.55, -8.65],
+        [160.40, -8.65],
+        [160.40, -8.50]
+      ]
+    },
+    {
+      "id": "foundation-plaza",
+      "name": "Foundation Plaza",
+      "color": "#64748b",
+      "description": "Early career in finance and corporate learning (2000-2006)",
+      "period": "2000-2006",
+      "coordinates": [
+        [160.53, -8.63],
+        [160.65, -8.63],
+        [160.65, -8.75],
+        [160.53, -8.75],
+        [160.53, -8.63]
+      ]
+    }
+  ],
+  "island": {
+    "name": "Career World - Michael Findling's Journey",
+    "center": {
+      "lat": -8.5,
+      "lng": 160.4
+    },
+    "bounds": {
+      "north": -8.3,
+      "south": -8.75,
+      "east": 160.65,
+      "west": 160.20
+    }
+  },
+  "skills": [
+    {
+      "name": "Account-Based Marketing",
+      "category": "Strategy",
+      "roles": ["prgx-director", "amcs-director", "redhat-senior-principal", "salesforce-campaigns"]
+    },
+    {
+      "name": "Demand Generation",
+      "category": "Strategy",
+      "roles": ["prgx-director", "salesforce-global-ops", "getsatisfaction-director"]
+    },
+    {
+      "name": "Marketing Operations",
+      "category": "Operations",
+      "roles": ["prgx-director", "salesforce-global-ops", "embarcadero-manager"]
+    },
+    {
+      "name": "Revenue Operations",
+      "category": "Operations",
+      "roles": ["prgx-director", "amcs-director", "redhat-senior-principal"]
+    },
+    {
+      "name": "Analytics & Attribution",
+      "category": "Technical",
+      "roles": ["prgx-director", "salesforce-global-ops", "getsatisfaction-director"]
+    },
+    {
+      "name": "Marketing Automation",
+      "category": "Technical",
+      "roles": ["prgx-director", "salesforce-global-ops", "getsatisfaction-director", "crowdfactory-senior-manager"]
+    },
+    {
+      "name": "Team Leadership",
+      "category": "Leadership",
+      "roles": ["prgx-director", "amcs-director", "redhat-senior-principal", "salesforce-global-ops"]
+    },
+    {
+      "name": "SEO/SEM",
+      "category": "Technical",
+      "roles": ["embarcadero-manager", "crowdfactory-senior-manager", "getsatisfaction-director"]
+    }
+  ]
+}

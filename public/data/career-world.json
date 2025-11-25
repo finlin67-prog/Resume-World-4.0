@@ -1,0 +1,175 @@
+{
+  "attractions": [
+    {
+      "id": "1",
+      "name": "ABM Kingdom Castle",
+      "location": "ABM Kingdom",
+      "category": "ABM",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1564399579883-451a5d44ec08?w=400",
+      "description": "Master account-based marketing strategies",
+      "coordinates": {
+        "lat": -8.5,
+        "lng": 160.2
+      }
+    },
+    {
+      "id": "2",
+      "name": "RevOps Forge",
+      "location": "RevOps District",
+      "category": "RevOps",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400",
+      "description": "Revenue operations and automation hub",
+      "coordinates": {
+        "lat": -8.3,
+        "lng": 160.4
+      }
+    },
+    {
+      "id": "3",
+      "name": "MarTech Mountain",
+      "location": "MarTech Peak",
+      "category": "MarTech",
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400",
+      "description": "Marketing technology and tools mastery",
+      "coordinates": {
+        "lat": -8.6,
+        "lng": 160.3
+      }
+    },
+    {
+      "id": "4",
+      "name": "DemandGen Fields",
+      "location": "DemandGen Valley",
+      "category": "DemandGen",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400",
+      "description": "Lead generation and nurturing strategies",
+      "coordinates": {
+        "lat": -8.7,
+        "lng": 160.5
+      }
+    },
+    {
+      "id": "5",
+      "name": "Onboarding Forest",
+      "location": "Onboarding Woods",
+      "category": "Onboarding",
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400",
+      "description": "Customer success and onboarding excellence",
+      "coordinates": {
+        "lat": -8.4,
+        "lng": 160.6
+      }
+    },
+    {
+      "id": "6",
+      "name": "GTMStack Citadel",
+      "location": "GTM Central",
+      "category": "GTMStack",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400",
+      "description": "Go-to-market strategy command center",
+      "coordinates": {
+        "lat": -8.5,
+        "lng": 160.45
+      }
+    }
+  ],
+  "zones": [
+    {
+      "id": "abm-kingdom",
+      "name": "ABM Kingdom",
+      "color": "#7c3aed",
+      "description": "Account-Based Marketing Territory",
+      "coordinates": [
+        [160.15, -8.45],
+        [160.25, -8.45],
+        [160.25, -8.55],
+        [160.15, -8.55],
+        [160.15, -8.45]
+      ]
+    },
+    {
+      "id": "revops-forge",
+      "name": "RevOps Forge",
+      "color": "#475569",
+      "description": "Revenue Operations District",
+      "coordinates": [
+        [160.35, -8.25],
+        [160.45, -8.25],
+        [160.45, -8.35],
+        [160.35, -8.35],
+        [160.35, -8.25]
+      ]
+    },
+    {
+      "id": "martech-mountain",
+      "name": "MarTech Mountain",
+      "color": "#0d9488",
+      "description": "Marketing Technology Peak",
+      "coordinates": [
+        [160.25, -8.55],
+        [160.35, -8.55],
+        [160.35, -8.65],
+        [160.25, -8.65],
+        [160.25, -8.55]
+      ]
+    },
+    {
+      "id": "demandgen-fields",
+      "name": "DemandGen Fields",
+      "color": "#16a34a",
+      "description": "Demand Generation Valley",
+      "coordinates": [
+        [160.45, -8.65],
+        [160.55, -8.65],
+        [160.55, -8.75],
+        [160.45, -8.75],
+        [160.45, -8.65]
+      ]
+    },
+    {
+      "id": "onboarding-forest",
+      "name": "Onboarding Forest",
+      "color": "#0ea5e9",
+      "description": "Customer Onboarding Woods",
+      "coordinates": [
+        [160.55, -8.35],
+        [160.65, -8.35],
+        [160.65, -8.45],
+        [160.55, -8.45],
+        [160.55, -8.35]
+      ]
+    },
+    {
+      "id": "gtmstack-citadel",
+      "name": "GTMStack Citadel",
+      "color": "#eab308",
+      "description": "Go-To-Market Central",
+      "coordinates": [
+        [160.40, -8.45],
+        [160.50, -8.45],
+        [160.50, -8.55],
+        [160.40, -8.55],
+        [160.40, -8.45]
+      ]
+    }
+  ],
+  "island": {
+    "name": "Career World Island",
+    "center": {
+      "lat": -8.5,
+      "lng": 160.4
+    },
+    "bounds": {
+      "north": -8.2,
+      "south": -8.8,
+      "east": 160.7,
+      "west": 160.1
+    }
+  }
+}

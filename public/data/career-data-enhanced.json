@@ -1,0 +1,675 @@
+{
+  "metadata": {
+    "name": "Michael Findling - GTM World Resort",
+    "tagline": "15+ Years of B2B Marketing Excellence Across 4 Career Lands",
+    "lastUpdated": "2025-11-24"
+  },
+  
+  "parks": [
+    {
+      "id": "magic-gtm-kingdom",
+      "name": "Magic GTM Kingdom",
+      "description": "Creativity, operational instinct, versatility, and the human side of marketing",
+      "color": "#9333EA",
+      "theme": "Fantasy, Action, Classic GTM storybook vibes",
+      "represents": ["Creativity", "Operational Excellence", "Versatility", "Fun/Human Side"],
+      "lands": [
+        "Campaigns Carousel",
+        "ABM Fantasyland", 
+        "Ops Mountain",
+        "Funnel Speedway",
+        "Pipeline Plaza"
+      ]
+    },
+    {
+      "id": "futureworks-expo",
+      "name": "FutureWorks Expo",
+      "description": "Innovation, technology leadership, ABM & analytics sophistication, strategic thinking",
+      "color": "#0EA5E9",
+      "theme": "Futuristic, Global, Scientific",
+      "represents": ["Innovation", "Technology Leadership", "ABM & Analytics", "Strategic Thinking"],
+      "lands": [
+        "Innovation Horizons",
+        "Data Discovery Lagoon",
+        "Future of AI Pavilion",
+        "Optimization Odyssey",
+        "Martech World Showcase"
+      ]
+    },
+    {
+      "id": "studio-ops-adventure",
+      "name": "Studio Ops Adventure Park",
+      "description": "Storytelling, brand GTM definition, customer journey creation",
+      "color": "#0D9488",
+      "theme": "Immersive, Cinematic, Character-driven",
+      "represents": ["Storytelling", "Brand GTM", "Customer Journeys", "Experience Design"],
+      "lands": [
+        "Persona Backlot",
+        "Journey Storytelling Studios",
+        "Pipeline Wars: Galaxy of Revenue",
+        "ABM ToyTown",
+        "DemandGen Stunt Show Arena"
+      ]
+    },
+    {
+      "id": "human-nature-kingdom",
+      "name": "Human Nature Kingdom",
+      "description": "Leadership, coaching, humanity at center of GTM, organizational empathy",
+      "color": "#64748B",
+      "theme": "Organic, Exploratory, Human-first",
+      "represents": ["Leadership", "Coaching", "Human-Centered GTM", "Organizational Empathy"],
+      "lands": [
+        "Leadership Savanna",
+        "Collaboration Rainforest",
+        "Communication Caves",
+        "Customer Empathy Trails",
+        "Analytics Safari"
+      ]
+    }
+  ],
+
+  "taxonomies": {
+    "marketingFunctions": [
+      "Account-Based Marketing (ABM)",
+      "Demand Generation",
+      "Marketing Operations",
+      "Revenue Operations",
+      "Campaign Management",
+      "Sales Enablement",
+      "Digital Marketing",
+      "Customer Marketing",
+      "Marketing Analytics",
+      "Content Strategy",
+      "Partner Marketing",
+      "Event Marketing"
+    ],
+    "industries": [
+      "Technology/SaaS",
+      "Cloud Computing",
+      "Open Source Software",
+      "Financial Services",
+      "Resource Management",
+      "Logistics/Fleet",
+      "Retail",
+      "Healthcare",
+      "Media/Entertainment",
+      "Non-Profit"
+    ],
+    "keywords": [
+      "GTM Strategy",
+      "Pipeline Acceleration",
+      "Lead Scoring",
+      "Attribution Modeling",
+      "Data Governance",
+      "MarTech Stack",
+      "Personalization",
+      "Customer Lifecycle",
+      "Cross-functional Collaboration",
+      "Budget Management",
+      "Team Leadership",
+      "Process Optimization",
+      "KPI Dashboards",
+      "Database Management",
+      "SEO/SEM"
+    ],
+    "technologies": [
+      "Salesforce",
+      "Marketo",
+      "Demandbase",
+      "6sense",
+      "HubSpot",
+      "Eloqua",
+      "ZoomInfo",
+      "Salesloft",
+      "Qualified.com",
+      "Tableau",
+      "Power BI",
+      "Einstein Analytics",
+      "WordPress",
+      "Pardot",
+      "ON24"
+    ]
+  },
+
+  "roles": [
+    {
+      "id": "prgx-director",
+      "title": "Director of Digital Marketing & ABM",
+      "company": "PRGX Global",
+      "location": "Atlanta, GA (Remote)",
+      "startDate": "2024-07",
+      "endDate": "2025-09",
+      "duration": "1y 3m",
+      "park": "magic-gtm-kingdom",
+      "primaryLand": "ABM Fantasyland",
+      "secondaryLands": ["Ops Mountain", "Pipeline Plaza"],
+      "description": "Architected unified revenue operating model integrating Demandbase, CRM, and analytics systems",
+      "achievements": [
+        {
+          "text": "87% YoY marketing-sourced pipeline growth",
+          "metrics": {"growth": "87%", "type": "pipeline"},
+          "tags": ["Pipeline Acceleration", "Revenue Growth"]
+        },
+        {
+          "text": "$1.5M annual budget across 11 vendors",
+          "metrics": {"budget": "$1.5M", "vendors": 11},
+          "tags": ["Budget Management", "Vendor Management"]
+        },
+        {
+          "text": "500% team expansion",
+          "metrics": {"growth": "500%", "type": "team"},
+          "tags": ["Team Leadership", "Organizational Growth"]
+        },
+        {
+          "text": "$1.2M qualified pipeline in 90 days",
+          "metrics": {"pipeline": "$1.2M", "timeframe": "90 days"},
+          "tags": ["Pipeline Generation", "ABM"]
+        }
+      ],
+      "marketingFunctions": [
+        "Account-Based Marketing (ABM)",
+        "Demand Generation",
+        "Marketing Operations",
+        "Revenue Operations"
+      ],
+      "industries": ["Technology/SaaS"],
+      "keywords": [
+        "ABM",
+        "Pipeline Acceleration",
+        "MarTech Stack",
+        "Data Governance",
+        "Team Leadership",
+        "Budget Management"
+      ],
+      "technologies": [
+        "Demandbase",
+        "Salesforce",
+        "Marketo",
+        "Qualified.com",
+        "ZoomInfo"
+      ],
+      "coordinates": {
+        "x": 75,
+        "y": 15
+      }
+    },
+    {
+      "id": "amcs-director",
+      "title": "Director of Account-Based Marketing",
+      "company": "AMCS Group",
+      "location": "Boston, MA / Miami, FL",
+      "startDate": "2023-07",
+      "endDate": "2024-01",
+      "duration": "7m",
+      "park": "magic-gtm-kingdom",
+      "primaryLand": "ABM Fantasyland",
+      "secondaryLands": ["Pipeline Plaza"],
+      "description": "Built end-to-end ABM framework generating $1.2M pipeline in 90 days",
+      "achievements": [
+        {
+          "text": "$1.2M pipeline generated in 90 days",
+          "metrics": {"pipeline": "$1.2M", "timeframe": "90 days"},
+          "tags": ["Pipeline Generation", "ABM"]
+        },
+        {
+          "text": "35% MQL increase within 60 days",
+          "metrics": {"growth": "35%", "metric": "MQL", "timeframe": "60 days"},
+          "tags": ["Lead Generation", "Campaign Optimization"]
+        },
+        {
+          "text": "50% improvement in campaign ROI",
+          "metrics": {"improvement": "50%", "metric": "ROI"},
+          "tags": ["Campaign Management", "ROI Optimization"]
+        }
+      ],
+      "marketingFunctions": [
+        "Account-Based Marketing (ABM)",
+        "Campaign Management",
+        "Partner Marketing"
+      ],
+      "industries": ["Resource Management", "Technology/SaaS"],
+      "keywords": [
+        "ABM Strategy",
+        "GTM Strategy",
+        "Data Governance",
+        "Partner Marketing"
+      ],
+      "technologies": [
+        "Salesforce",
+        "Marketing Automation"
+      ],
+      "coordinates": {
+        "x": 70,
+        "y": 20
+      }
+    },
+    {
+      "id": "redhat-senior-principal",
+      "title": "Senior Principal Program Manager, ABM",
+      "company": "Red Hat",
+      "location": "Raleigh, NC (Remote)",
+      "startDate": "2021-08",
+      "endDate": "2023-05",
+      "duration": "1y 10m",
+      "park": "futureworks-expo",
+      "primaryLand": "Innovation Horizons",
+      "secondaryLands": ["Martech World Showcase"],
+      "description": "Led ABM programs for 200+ Enterprise accounts contributing to 33% of global pipeline",
+      "achievements": [
+        {
+          "text": "30% new enterprise account introductions",
+          "metrics": {"growth": "30%", "type": "accounts"},
+          "tags": ["Account Expansion", "Enterprise Sales"]
+        },
+        {
+          "text": "25% increase in MQLs",
+          "metrics": {"growth": "25%", "metric": "MQL"},
+          "tags": ["Lead Generation"]
+        },
+        {
+          "text": "40% increase in upsell opportunities",
+          "metrics": {"growth": "40%", "type": "upsell"},
+          "tags": ["Customer Marketing", "Revenue Expansion"]
+        }
+      ],
+      "marketingFunctions": [
+        "Account-Based Marketing (ABM)",
+        "Customer Marketing",
+        "Sales Enablement"
+      ],
+      "industries": ["Open Source Software", "Cloud Computing", "Technology/SaaS"],
+      "keywords": [
+        "Enterprise ABM",
+        "Customer Lifecycle",
+        "Cross-functional Collaboration",
+        "Customer Marketing"
+      ],
+      "technologies": [
+        "Salesforce",
+        "6sense",
+        "Marketing Automation"
+      ],
+      "coordinates": {
+        "x": 65,
+        "y": 30
+      }
+    },
+    {
+      "id": "salesforce-global-ops",
+      "title": "Global Marketing Operations Leader",
+      "company": "Salesforce",
+      "location": "San Francisco, CA (Remote)",
+      "startDate": "2014-03",
+      "endDate": "2021-09",
+      "duration": "7y 7m",
+      "park": "futureworks-expo",
+      "primaryLand": "Data Discovery Lagoon",
+      "secondaryLands": ["Optimization Odyssey", "Martech World Showcase"],
+      "description": "Led marketing operations supporting 95 team members across global markets",
+      "achievements": [
+        {
+          "text": "65% increase in sales-qualified leads",
+          "metrics": {"growth": "65%", "metric": "SQL"},
+          "tags": ["Lead Generation", "Sales Enablement"]
+        },
+        {
+          "text": "76% YoY pipeline growth",
+          "metrics": {"growth": "76%", "type": "pipeline"},
+          "tags": ["Pipeline Acceleration"]
+        },
+        {
+          "text": "190% reporting efficiency improvement (4 days to 2 hours)",
+          "metrics": {"improvement": "190%", "before": "4 days", "after": "2 hours"},
+          "tags": ["Process Optimization", "Marketing Analytics"]
+        }
+      ],
+      "marketingFunctions": [
+        "Marketing Operations",
+        "Marketing Analytics",
+        "Campaign Management",
+        "Sales Enablement"
+      ],
+      "industries": ["Cloud Computing", "Technology/SaaS"],
+      "keywords": [
+        "Marketing Operations",
+        "KPI Dashboards",
+        "Data Governance",
+        "Process Optimization",
+        "Team Leadership",
+        "Attribution Modeling"
+      ],
+      "technologies": [
+        "Salesforce",
+        "Eloqua",
+        "Tableau",
+        "Einstein Analytics",
+        "6sense"
+      ],
+      "coordinates": {
+        "x": 60,
+        "y": 35
+      }
+    },
+    {
+      "id": "salesforce-campaigns",
+      "title": "Senior Manager of Enterprise Campaigns",
+      "company": "Salesforce",
+      "location": "San Francisco, CA",
+      "startDate": "2014-03",
+      "endDate": "2017-11",
+      "duration": "3y 9m",
+      "park": "studio-ops-adventure",
+      "primaryLand": "Journey Storytelling Studios",
+      "secondaryLands": ["DemandGen Stunt Show Arena"],
+      "description": "Led integrated marketing campaigns for Fortune 50 enterprise accounts",
+      "achievements": [
+        {
+          "text": "30% YoY pipeline increase",
+          "metrics": {"growth": "30%", "type": "pipeline"},
+          "tags": ["Pipeline Growth", "Campaign Management"]
+        },
+        {
+          "text": "Established ABM Center of Excellence",
+          "tags": ["ABM", "Best Practices", "Organizational Development"]
+        },
+        {
+          "text": "Led NRF and HIMSS industry events",
+          "tags": ["Event Marketing", "Industry Leadership"]
+        }
+      ],
+      "marketingFunctions": [
+        "Campaign Management",
+        "Account-Based Marketing (ABM)",
+        "Event Marketing",
+        "Sales Enablement"
+      ],
+      "industries": ["Cloud Computing", "Technology/SaaS", "Retail", "Healthcare"],
+      "keywords": [
+        "Enterprise Campaigns",
+        "ABM",
+        "Event Marketing",
+        "GTM Strategy"
+      ],
+      "technologies": [
+        "Salesforce",
+        "Marketo"
+      ],
+      "coordinates": {
+        "x": 65,
+        "y": 40
+      }
+    },
+    {
+      "id": "getsatisfaction-director",
+      "title": "Director of Demand Generation",
+      "company": "Get Satisfaction",
+      "location": "San Francisco, CA",
+      "startDate": "2012-05",
+      "endDate": "2014-02",
+      "duration": "1y 10m",
+      "park": "studio-ops-adventure",
+      "primaryLand": "DemandGen Stunt Show Arena",
+      "secondaryLands": ["Campaigns Carousel"],
+      "description": "Led all demand generation activities including marketing automation and lead management",
+      "achievements": [
+        {
+          "text": "End-to-end demand generation program execution",
+          "tags": ["Demand Generation", "Program Management"]
+        },
+        {
+          "text": "ROI analysis and campaign optimization",
+          "tags": ["Campaign Management", "ROI Optimization"]
+        },
+        {
+          "text": "Marketo system ownership",
+          "tags": ["MarTech", "Marketing Automation"]
+        }
+      ],
+      "marketingFunctions": [
+        "Demand Generation",
+        "Marketing Operations",
+        "Digital Marketing"
+      ],
+      "industries": ["Technology/SaaS"],
+      "keywords": [
+        "Demand Generation",
+        "Lead Scoring",
+        "Marketing Automation",
+        "SEO/SEM"
+      ],
+      "technologies": [
+        "Marketo",
+        "Salesforce"
+      ],
+      "coordinates": {
+        "x": 40,
+        "y": 50
+      }
+    },
+    {
+      "id": "crowdfactory-senior-manager",
+      "title": "Senior Manager of Marketing & Communications",
+      "company": "Crowd Factory",
+      "location": "San Francisco, CA",
+      "startDate": "2011-03",
+      "endDate": "2012-05",
+      "duration": "1y 3m",
+      "park": "studio-ops-adventure",
+      "primaryLand": "Journey Storytelling Studios",
+      "secondaryLands": ["Persona Backlot"],
+      "description": "Content and SEO manager for corporate website and lead generation",
+      "achievements": [
+        {
+          "text": "164% YoY increase in unique visitors",
+          "metrics": {"growth": "164%", "metric": "traffic"},
+          "tags": ["SEO", "Digital Marketing"]
+        },
+        {
+          "text": "43% QoQ increase in net new leads",
+          "metrics": {"growth": "43%", "metric": "leads"},
+          "tags": ["Lead Generation"]
+        },
+        {
+          "text": "Worked with American Red Cross, HBO, Sony Music",
+          "tags": ["Customer Success", "Media/Entertainment"]
+        }
+      ],
+      "marketingFunctions": [
+        "Digital Marketing",
+        "Content Strategy",
+        "Customer Marketing"
+      ],
+      "industries": ["Technology/SaaS", "Media/Entertainment", "Non-Profit"],
+      "keywords": [
+        "SEO/SEM",
+        "Content Strategy",
+        "Lead Generation",
+        "Customer Marketing"
+      ],
+      "technologies": [
+        "Marketo",
+        "Salesforce"
+      ],
+      "coordinates": {
+        "x": 35,
+        "y": 55
+      }
+    },
+    {
+      "id": "embarcadero-manager",
+      "title": "Global Online Marketing Manager",
+      "company": "Embarcadero Technologies",
+      "location": "San Francisco Bay Area",
+      "startDate": "2008-10",
+      "endDate": "2011-03",
+      "duration": "2y 6m",
+      "park": "studio-ops-adventure",
+      "primaryLand": "DemandGen Stunt Show Arena",
+      "description": "Managed SEO, SEM, and social media marketing operations",
+      "achievements": [
+        {
+          "text": "SEO and paid advertising management",
+          "tags": ["SEO/SEM", "Digital Marketing"]
+        },
+        {
+          "text": "Multi-platform reporting (Salesforce, Eloqua, Responsys)",
+          "tags": ["Marketing Analytics", "Reporting"]
+        }
+      ],
+      "marketingFunctions": [
+        "Digital Marketing",
+        "Marketing Operations"
+      ],
+      "industries": ["Technology/SaaS"],
+      "keywords": [
+        "SEO/SEM",
+        "Digital Marketing",
+        "Marketing Analytics"
+      ],
+      "technologies": [
+        "Salesforce",
+        "Eloqua"
+      ],
+      "coordinates": {
+        "x": 30,
+        "y": 60
+      }
+    },
+    {
+      "id": "salemglobal-senior-manager",
+      "title": "Senior Manager of Online Marketing",
+      "company": "SalemGlobal Internet",
+      "location": "New York, NY",
+      "startDate": "2006-06",
+      "endDate": "2008-09",
+      "duration": "2y 4m",
+      "park": "human-nature-kingdom",
+      "primaryLand": "Customer Empathy Trails",
+      "description": "Managed business development, prospecting, and client onboarding",
+      "achievements": [
+        {
+          "text": "500% growth in new clients YoY",
+          "metrics": {"growth": "500%", "type": "clients"},
+          "tags": ["Business Development", "Customer Acquisition"]
+        },
+        {
+          "text": "85% client retention rate",
+          "metrics": {"rate": "85%", "metric": "retention"},
+          "tags": ["Customer Success", "Client Management"]
+        }
+      ],
+      "marketingFunctions": [
+        "Digital Marketing",
+        "Customer Marketing"
+      ],
+      "industries": ["Technology/SaaS"],
+      "keywords": [
+        "Customer Marketing",
+        "Business Development"
+      ],
+      "technologies": [],
+      "coordinates": {
+        "x": 25,
+        "y": 65
+      }
+    },
+    {
+      "id": "botm-analyst",
+      "title": "Business Analyst",
+      "company": "Bank of Tokyo-Mitsubishi",
+      "location": "New York, NY",
+      "startDate": "2005-03",
+      "endDate": "2006-04",
+      "duration": "1y 2m",
+      "park": "human-nature-kingdom",
+      "primaryLand": "Analytics Safari",
+      "description": "Designed and implemented Credit Portfolio Management System",
+      "achievements": [
+        {
+          "text": "Internal CPMS system implementation",
+          "tags": ["System Implementation", "Project Management"]
+        },
+        {
+          "text": "Team training and enablement",
+          "tags": ["Training", "Change Management"]
+        }
+      ],
+      "marketingFunctions": [],
+      "industries": ["Financial Services"],
+      "keywords": [
+        "Process Optimization",
+        "Project Management"
+      ],
+      "technologies": [],
+      "coordinates": {
+        "x": 20,
+        "y": 75
+      }
+    },
+    {
+      "id": "sp-lms-strategist",
+      "title": "Learning Management Systems Strategist",
+      "company": "Standard & Poor's",
+      "location": "New York, NY",
+      "startDate": "2003-03",
+      "endDate": "2005-03",
+      "duration": "2y 1m",
+      "park": "human-nature-kingdom",
+      "primaryLand": "Leadership Savanna",
+      "description": "Led LMS implementation and training delivery",
+      "achievements": [
+        {
+          "text": "LMS implementation for multiple business units",
+          "tags": ["System Implementation", "Training"]
+        },
+        {
+          "text": "CEO recognition for on-time, on-budget delivery",
+          "tags": ["Project Management", "Leadership Recognition"]
+        }
+      ],
+      "marketingFunctions": [],
+      "industries": ["Financial Services"],
+      "keywords": [
+        "Project Management",
+        "Team Leadership"
+      ],
+      "technologies": [],
+      "coordinates": {
+        "x": 25,
+        "y": 80
+      }
+    },
+    {
+      "id": "goldman-analyst",
+      "title": "Learning and Professional Development Analyst",
+      "company": "Goldman Sachs",
+      "location": "New York, NY",
+      "startDate": "2000-06",
+      "endDate": "2002-11",
+      "duration": "2y 6m",
+      "park": "human-nature-kingdom",
+      "primaryLand": "Leadership Savanna",
+      "description": "Directed Enterprise LMS implementation and eLearning projects",
+      "achievements": [
+        {
+          "text": "Enterprise LMS implementation",
+          "tags": ["System Implementation"]
+        },
+        {
+          "text": "eLearning project management",
+          "tags": ["Project Management"]
+        }
+      ],
+      "marketingFunctions": [],
+      "industries": ["Financial Services"],
+      "keywords": [
+        "Project Management"
+      ],
+      "technologies": [],
+      "coordinates": {
+        "x": 30,
+        "y": 85
+      }
+    }
+  ]
+}
